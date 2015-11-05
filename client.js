@@ -152,7 +152,7 @@ JsbinClient.prototype._save = function(binId, data) {
   var _data = {
     settings: JSON.stringify(_settings),
     javascript: data.javascript || undefined,
-    css: data.html || undefined,
+    css: data.css || undefined,
     html: data.html || undefined,
   };
   var options = this._addHeaders({
