@@ -1,6 +1,6 @@
 {
   "name": "jsbin-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple client for the JSBin.com API",
   "main": "client.js",
   "dependencies": {

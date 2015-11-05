@@ -143,6 +143,10 @@ client.remove('aabbcc'/*, snapshot */).then(function(data) {
 
 ## Changelog
 
+### 0.1.1 (November 5th 2015) ###
+
+* fixing client.save() to properly store `css`
+
 ### 0.1.0 (November 5th 2015) ###
 
 * initial release
