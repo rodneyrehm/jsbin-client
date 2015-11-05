@@ -1,0 +1,22 @@
+{
+  "name": "jsbin-client",
+  "version": "0.1.0",
+  "description": "Simple client for the JSBin.com API",
+  "main": "client.js",
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asd"
+  },
+  "keywords": [
+    "jsbin"
+  ],
+  "author": "Rodney Rehm <rodney.rehm@medialize.de> (http://rodneyrehm.de/en/)",
+  "license": "MIT"
+}
