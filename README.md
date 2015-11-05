@@ -149,4 +149,4 @@ client.remove('aabbcc'/*, snapshot */).then(function(data) {
 
 ## License
 
-ally.js is published under the [MIT License](http://opensource.org/licenses/mit-license).
+jsbin-client is published under the [MIT License](http://opensource.org/licenses/mit-license).
